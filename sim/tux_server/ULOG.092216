@@ -1,0 +1,32 @@
+090359.myssh.com!tmshutdown.26391.3086350016.-2: 09-22-2016: client high water (0), total client (0)            
+090359.myssh.com!tmshutdown.26391.3086350016.-2: 09-22-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+090359.myssh.com!tmshutdown.26391.3086350016.-2: LIBTUX_CAT:334: ERROR: No BBL
+090359.myssh.com!tmshutdown.26391.3086350016.-2: FATAL: internal error: CMDTUX_CAT:764: ERROR: can't attach to BB
+090403.myssh.com!tmloadcf.26392.3086247616.-2: 09-22-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+090403.myssh.com!tmloadcf.26392.3086247616.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/fs/part_time/comm_server/sim/tux_server/tuxconfig has been updated
+090504.myssh.com!BBL.26442.3086182608.0: 09-22-2016: Tuxedo Version 11.1.1.2.0, 32-bit, Patch Level (none)
+090504.myssh.com!BBL.26442.3086182608.0: LIBTUX_CAT:262: INFO: Standard main starting
+090504.myssh.com!WSL.26444.3086554816.0: 09-22-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+090504.myssh.com!WSL.26444.3086554816.0: LIBTUX_CAT:262: INFO: Standard main starting
+090504.myssh.com!simpserv.26445.3086321872.0: 09-22-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+090504.myssh.com!simpserv.26445.3086321872.0: LIBTUX_CAT:262: INFO: Standard main starting
+090504.myssh.com!simpserv.26445.3086321872.0: Welcome to the simple server
+090504.myssh.com!simpserv.26446.3086973136.0: 09-22-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+090504.myssh.com!simpserv.26446.3086973136.0: LIBTUX_CAT:262: INFO: Standard main starting
+090504.myssh.com!simpserv.26446.3086973136.0: Welcome to the simple server
+090504.myssh.com!simpserv.26447.3086948560.0: 09-22-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+090504.myssh.com!simpserv.26447.3086948560.0: LIBTUX_CAT:262: INFO: Standard main starting
+090504.myssh.com!simpserv.26447.3086948560.0: Welcome to the simple server
+090504.myssh.com!simpserv.26448.3086825680.0: 09-22-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+090504.myssh.com!simpserv.26448.3086825680.0: LIBTUX_CAT:262: INFO: Standard main starting
+090504.myssh.com!simpserv.26448.3086825680.0: Welcome to the simple server
+090504.myssh.com!simpserv.26449.3086084304.0: 09-22-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+090504.myssh.com!simpserv.26449.3086084304.0: LIBTUX_CAT:328: ERROR: No space in Bulletin Board for Server Table
+090504.myssh.com!simpserv.26449.3086084304.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+090504.myssh.com!tmboot.26441.3086296768.-2: 09-22-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+090504.myssh.com!tmboot.26441.3086296768.-2: CMDTUX_CAT:825: ERROR: Process simpserv at simple failed with /T tperrno (TPENOENT - no entry found)
+185639.myssh.com!simpserv.26445.3086321872.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+185639.myssh.com!BBL.26442.3086182608.0: CMDTUX_CAT:43: WARN: SIGTERM was ignored while shutting down the BBL
+185639.myssh.com!simpserv.26446.3086973136.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+185639.myssh.com!simpserv.26447.3086948560.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+185639.myssh.com!simpserv.26448.3086825680.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used

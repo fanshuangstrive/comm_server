@@ -1,0 +1,118 @@
+100127.myssh.com!tmshutdown.18279.3086743232.-2: 08-05-2016: client high water (0), total client (0)            
+100127.myssh.com!tmshutdown.18279.3086743232.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+100127.myssh.com!tmshutdown.18279.3086743232.-2: LIBTUX_CAT:607: ERROR: Cannot open section _RESOURCE_SECT of the TUXCONFIG: -1
+100127.myssh.com!tmshutdown.18279.3086743232.-2: LIBTUX_CAT:588: ERROR: Unable to open TUXCONFIG file
+100127.myssh.com!tmshutdown.18279.3086743232.-2: FATAL: internal error: CMDTUX_CAT:754: ERROR: error processing configuration file
+
+100127.myssh.com!tmshutdown.18279.3086743232.-2: FATAL: internal error: CMDTUX_CAT:1360: ERROR: configuration file not found
+
+100127.myssh.com!tmboot.18294.3085895360.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+100127.myssh.com!tmboot.18294.3085895360.-2: LIBTUX_CAT:607: ERROR: Cannot open section _RESOURCE_SECT of the TUXCONFIG: -1
+100127.myssh.com!tmboot.18294.3085895360.-2: LIBTUX_CAT:588: ERROR: Unable to open TUXCONFIG file
+100127.myssh.com!tmboot.18294.3085895360.-2: FATAL: internal error: CMDTUX_CAT:754: ERROR: error processing configuration file
+
+100127.myssh.com!tmboot.18294.3085895360.-2: FATAL: internal error: CMDTUX_CAT:1360: ERROR: configuration file not found
+
+100237.myssh.com!tmshutdown.18325.3086665408.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+100237.myssh.com!tmshutdown.18325.3086665408.-2: LIBTUX_CAT:607: ERROR: Cannot open section _RESOURCE_SECT of the TUXCONFIG: -1
+100237.myssh.com!tmshutdown.18325.3086665408.-2: LIBTUX_CAT:588: ERROR: Unable to open TUXCONFIG file
+100237.myssh.com!tmshutdown.18325.3086665408.-2: FATAL: internal error: CMDTUX_CAT:754: ERROR: error processing configuration file
+
+100237.myssh.com!tmshutdown.18325.3086665408.-2: FATAL: internal error: CMDTUX_CAT:1360: ERROR: configuration file not found
+
+100403.myssh.com!tmshutdown.18379.3086513856.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+100403.myssh.com!tmshutdown.18379.3086513856.-2: LIBTUX_CAT:607: ERROR: Cannot open section _RESOURCE_SECT of the TUXCONFIG: -1
+100403.myssh.com!tmshutdown.18379.3086513856.-2: LIBTUX_CAT:588: ERROR: Unable to open TUXCONFIG file
+100403.myssh.com!tmshutdown.18379.3086513856.-2: FATAL: internal error: CMDTUX_CAT:754: ERROR: error processing configuration file
+
+100403.myssh.com!tmshutdown.18379.3086513856.-2: FATAL: internal error: CMDTUX_CAT:1360: ERROR: configuration file not found
+
+100428.myssh.com!tmshutdown.18387.3085878976.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+100428.myssh.com!tmshutdown.18387.3085878976.-2: LIBTUX_CAT:612: ERROR: Read an entry from the VTOC table failed
+100428.myssh.com!tmshutdown.18387.3085878976.-2: LIBTUX_CAT:589: ERROR: Unable to read the *RESOURCES section of the TUXCONFIG file
+100428.myssh.com!tmshutdown.18387.3085878976.-2: FATAL: internal error: CMDTUX_CAT:754: ERROR: error processing configuration file
+
+100428.myssh.com!tmshutdown.18387.3085878976.-2: FATAL: internal error: CMDTUX_CAT:1360: ERROR: configuration file not found
+
+100649.myssh.com!tmloadcf.18417.3086456512.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+100649.myssh.com!tmloadcf.18417.3086456512.-2: CMDTUX_CAT:879: INFO: A new file system has been created. (size = 1002 512-byte blocks)
+100649.myssh.com!tmloadcf.18417.3086456512.-2: CMDTUX_CAT:871: INFO: TUXCONFIG file /home/fs/part_time/comm_server/sim/tux_server/tuxconfig has been created
+100718.myssh.com!tmshutdown.18464.3086464704.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+100718.myssh.com!tmshutdown.18464.3086464704.-2: LIBTUX_CAT:350: ERROR: Configuration file parameters do not match existing bulletin board.
+100718.myssh.com!tmshutdown.18464.3086464704.-2: FATAL: internal error: CMDTUX_CAT:764: ERROR: can't attach to BB
+100805.myssh.com!tmshutdown.18476.3086259904.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+100805.myssh.com!tmshutdown.18476.3086259904.-2: LIBTUX_CAT:350: ERROR: Configuration file parameters do not match existing bulletin board.
+100805.myssh.com!tmshutdown.18476.3086259904.-2: FATAL: internal error: CMDTUX_CAT:764: ERROR: can't attach to BB
+100943.myssh.com!tmshutdown.18541.3086128832.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+100943.myssh.com!tmshutdown.18541.3086128832.-2: LIBTUX_CAT:334: ERROR: No BBL
+100943.myssh.com!tmshutdown.18541.3086128832.-2: FATAL: internal error: CMDTUX_CAT:764: ERROR: can't attach to BB
+100947.myssh.com!tmloadcf.18542.3086612160.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+100947.myssh.com!tmloadcf.18542.3086612160.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/fs/part_time/comm_server/sim/tux_server/tuxconfig has been updated
+101000.myssh.com!BBL.18547.3086969040.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit, Patch Level (none)
+101000.myssh.com!BBL.18547.3086969040.0: LIBTUX_CAT:262: INFO: Standard main starting
+101000.myssh.com!WSL.18548.3086288576.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101000.myssh.com!WSL.18548.3086288576.0: LIBTUX_CAT:262: INFO: Standard main starting
+101000.myssh.com!WSL.18548.3086288576.0: WSNAT_CAT:1008: ERROR: Could not establish listening address on network //192.168.1.166:15001
+101000.myssh.com!WSL.18548.3086288576.0: LIBTUX_CAT:250: ERROR: tpsvrinit() failed
+101000.myssh.com!tmboot.18545.3086513856.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101000.myssh.com!tmboot.18545.3086513856.-2: CMDTUX_CAT:825: ERROR: Process WSL at simple failed with /T tperrno (TPESYSTEM - internal system error)
+101000.myssh.com!simpserv.18549.3086330064.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101000.myssh.com!simpserv.18549.3086330064.0: LIBTUX_CAT:262: INFO: Standard main starting
+101000.myssh.com!simpserv.18549.3086330064.0: Welcome to the simple server
+101000.myssh.com!simpserv.18550.3086346448.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101000.myssh.com!simpserv.18550.3086346448.0: LIBTUX_CAT:262: INFO: Standard main starting
+101000.myssh.com!simpserv.18550.3086346448.0: Welcome to the simple server
+101000.myssh.com!simpserv.18551.3086231760.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101000.myssh.com!simpserv.18551.3086231760.0: LIBTUX_CAT:262: INFO: Standard main starting
+101000.myssh.com!simpserv.18551.3086231760.0: Welcome to the simple server
+101000.myssh.com!simpserv.18552.3086858448.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101000.myssh.com!simpserv.18552.3086858448.0: LIBTUX_CAT:262: INFO: Standard main starting
+101000.myssh.com!simpserv.18552.3086858448.0: Welcome to the simple server
+101001.myssh.com!simpserv.18553.3086993616.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101001.myssh.com!simpserv.18553.3086993616.0: LIBTUX_CAT:262: INFO: Standard main starting
+101001.myssh.com!simpserv.18553.3086993616.0: Welcome to the simple server
+101042.myssh.com!?proc.18605.3086743232.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101042.myssh.com!?proc.18605.3086743232.0: LIBWSC_CAT:1055: ERROR: Unable to establish WSL connection
+101042.myssh.com!?proc.18605.3086743232.0: LIBWSC_CAT:1027: ERROR: Unable to connect to WSH
+101042.myssh.com!?proc.18605.3086743232.0: LIBWSC_CAT:1020: ERROR: Unable to obtain authentication level
+101140.myssh.com!tmshutdown.18618.3086726848.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101140.myssh.com!tmshutdown.18618.3086726848.-2: LIBTUX_CAT:334: ERROR: No BBL
+101140.myssh.com!tmshutdown.18618.3086726848.-2: FATAL: internal error: CMDTUX_CAT:764: ERROR: can't attach to BB
+101151.myssh.com!simpserv.18553.3086993616.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+101151.myssh.com!simpserv.18552.3086858448.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+101151.myssh.com!simpserv.18551.3086231760.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+101151.myssh.com!simpserv.18550.3086346448.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+101151.myssh.com!simpserv.18549.3086330064.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+101154.myssh.com!BBL.18547.3086969040.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+101219.myssh.com!tmloadcf.18629.3086575296.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101219.myssh.com!tmloadcf.18629.3086575296.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/fs/part_time/comm_server/sim/tux_server/tuxconfig has been updated
+101228.myssh.com!BBL.18632.3085961424.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit, Patch Level (none)
+101228.myssh.com!BBL.18632.3085961424.0: LIBTUX_CAT:262: INFO: Standard main starting
+101228.myssh.com!WSL.18634.3086214848.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101228.myssh.com!WSL.18634.3086214848.0: LIBTUX_CAT:262: INFO: Standard main starting
+101228.myssh.com!simpserv.18635.3086915792.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101228.myssh.com!simpserv.18635.3086915792.0: LIBTUX_CAT:262: INFO: Standard main starting
+101228.myssh.com!simpserv.18635.3086915792.0: Welcome to the simple server
+101228.myssh.com!simpserv.18636.3086575824.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101228.myssh.com!simpserv.18636.3086575824.0: LIBTUX_CAT:262: INFO: Standard main starting
+101228.myssh.com!simpserv.18636.3086575824.0: Welcome to the simple server
+101229.myssh.com!simpserv.18637.3086485712.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101229.myssh.com!simpserv.18637.3086485712.0: LIBTUX_CAT:262: INFO: Standard main starting
+101229.myssh.com!simpserv.18637.3086485712.0: Welcome to the simple server
+101229.myssh.com!simpserv.18638.3086207184.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101229.myssh.com!simpserv.18638.3086207184.0: LIBTUX_CAT:262: INFO: Standard main starting
+101229.myssh.com!simpserv.18638.3086207184.0: Welcome to the simple server
+101229.myssh.com!simpserv.18639.3086047440.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101229.myssh.com!simpserv.18639.3086047440.0: LIBTUX_CAT:328: ERROR: No space in Bulletin Board for Server Table
+101229.myssh.com!simpserv.18639.3086047440.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+101229.myssh.com!tmboot.18631.3085891264.-2: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101229.myssh.com!tmboot.18631.3085891264.-2: CMDTUX_CAT:825: ERROR: Process simpserv at simple failed with /T tperrno (TPENOENT - no entry found)
+101238.myssh.com!WSH.18641.3086661312.0: 08-05-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+101238.myssh.com!WSH.18641.3086661312.0: WSNAT_CAT:1030: INFO: Work Station Handler joining application
+125853.myssh.com!WSH.18641.3086661312.0: WSNAT_CAT:1287: WARN: Forced shutdown of client; user name ''; client name ''; workstation address '//128.5.36.166:5819'
+125915.myssh.com!WSH.18641.3086661312.0: WSNAT_CAT:1287: WARN: Forced shutdown of client; user name ''; client name ''; workstation address '//128.5.36.166:16935'
+142243.myssh.com!BBL.18632.3085961424.0: CMDTUX_CAT:43: WARN: SIGTERM was ignored while shutting down the BBL
+142243.myssh.com!simpserv.18635.3086915792.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+142243.myssh.com!simpserv.18638.3086207184.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+142243.myssh.com!simpserv.18636.3086575824.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+142243.myssh.com!simpserv.18637.3086485712.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used

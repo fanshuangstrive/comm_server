@@ -1,0 +1,24 @@
+121244.myssh.com!BBL.21729.3086862544.0: 09-27-2016: client high water (0), total client (0)
+121244.myssh.com!BBL.21729.3086862544.0: 09-27-2016: Tuxedo Version 11.1.1.2.0, 32-bit, Patch Level (none)
+121244.myssh.com!BBL.21729.3086862544.0: LIBTUX_CAT:262: INFO: Standard main starting
+121245.myssh.com!WSL.21730.3086407360.0: 09-27-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+121245.myssh.com!WSL.21730.3086407360.0: LIBTUX_CAT:262: INFO: Standard main starting
+121245.myssh.com!simpserv.21731.3086026960.0: 09-27-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+121245.myssh.com!simpserv.21731.3086026960.0: LIBTUX_CAT:262: INFO: Standard main starting
+121245.myssh.com!simpserv.21731.3086026960.0: Welcome to the simple server
+121245.myssh.com!simpserv.21732.3086375120.0: 09-27-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+121245.myssh.com!simpserv.21732.3086375120.0: LIBTUX_CAT:262: INFO: Standard main starting
+121245.myssh.com!simpserv.21732.3086375120.0: Welcome to the simple server
+121245.myssh.com!simpserv.21733.3086227664.0: 09-27-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+121245.myssh.com!simpserv.21733.3086227664.0: LIBTUX_CAT:262: INFO: Standard main starting
+121245.myssh.com!simpserv.21733.3086227664.0: Welcome to the simple server
+121245.myssh.com!simpserv.21734.3086051536.0: 09-27-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+121245.myssh.com!simpserv.21734.3086051536.0: LIBTUX_CAT:262: INFO: Standard main starting
+121245.myssh.com!simpserv.21734.3086051536.0: Welcome to the simple server
+121245.myssh.com!simpserv.21735.3086727376.0: 09-27-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+121245.myssh.com!simpserv.21735.3086727376.0: LIBTUX_CAT:328: ERROR: No space in Bulletin Board for Server Table
+121245.myssh.com!simpserv.21735.3086727376.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+121245.myssh.com!tmboot.21728.3085940416.-2: 09-27-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+121245.myssh.com!tmboot.21728.3085940416.-2: CMDTUX_CAT:825: ERROR: Process simpserv at simple failed with /T tperrno (TPENOENT - no entry found)
+123025.myssh.com!WSH.22108.3086452416.0: 09-27-2016: Tuxedo Version 11.1.1.2.0, 32-bit
+123025.myssh.com!WSH.22108.3086452416.0: WSNAT_CAT:1030: INFO: Work Station Handler joining application

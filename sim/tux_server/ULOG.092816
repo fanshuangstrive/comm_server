@@ -1,0 +1,8 @@
+000003.myssh.com!BBL.21729.3086862544.0: 09-28-2016: client high water (2), total client (1)
+000003.myssh.com!BBL.21729.3086862544.0: 09-28-2016: Tuxedo Version 11.1.1.2.0, 32-bit, Patch Level (none)
+000003.myssh.com!BBL.21729.3086862544.0:  
+180642.myssh.com!simpserv.21731.3086026960.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+180642.myssh.com!simpserv.21734.3086051536.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+180642.myssh.com!simpserv.21732.3086375120.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+180642.myssh.com!simpserv.21733.3086227664.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+180642.myssh.com!BBL.21729.3086862544.0: CMDTUX_CAT:43: WARN: SIGTERM was ignored while shutting down the BBL

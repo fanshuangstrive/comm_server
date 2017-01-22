@@ -1,0 +1,70 @@
+#	(c) 2003 BEA Systems, Inc. All Rights Reserved.
+#ident	"@(#) samples/atmi/simpapp/ubbsimple	$Revision: 1.7 $"
+
+#Skeleton UBBCONFIG file for the TUXEDO Simple Application.
+#Replace the <bracketed> items with the appropriate values.
+
+*RESOURCES
+IPCKEY		66666	
+
+#Example:
+#IPCKEY		123456
+
+DOMAINID	simpapp
+MASTER		simple
+#MAXACCESSERS	10
+##########WSL#################
+MAXACCESSERS	300	
+##########WSL#################
+MAXSERVERS	5
+MAXSERVICES	10
+MODEL		SHM
+LDBAL		N
+
+*MACHINES
+DEFAULT:
+		APPDIR="/home/fs/part_time/comm_server/sim/tux_server"
+		TUXCONFIG="/home/fs/part_time/comm_server/sim/tux_server/tuxconfig"
+		TUXDIR="/home/tuxedo/tuxedo11gR1"
+		############WSL###############这个参数指定了可以同时连接到某台主机上的最大客户端数量
+		MAXWSCLIENTS=30 
+		###########################
+#Example:
+#		APPDIR="/home/me/simpapp"
+#		TUXCONFIG="/home/me/simpapp/tuxconfig"
+#		TUXDIR="/usr/tuxedo"
+
+#<Machine-name>	LMID=simple
+#"localhost.localdomain"	LMID=simple
+"myssh.com"	LMID=simple
+#Example:
+#beatux		LMID=simple
+
+
+
+*GROUPS
+GROUP1
+	LMID=simple	GRPNO=1	OPENINFO=NONE
+
+############WSL###############
+WSGRP	
+	LMID=simple	GRPNO=2	
+############WSL###############
+
+*SERVERS
+#DEFAULT:
+		#CLOPT="-A"
+#simpserv	SRVGRP=GROUP1 SRVID=1
+
+############WSL###############
+DEFAULT:
+		CLOPT="-A -t" RESTART=Y MAXGEN=5 GRACE=120
+WSL		SRVID=10 SRVGRP=WSGRP 
+                CLOPT="-A -- -n//128.5.36.166:15001 -p 2048 -P 2050"	
+
+simpserv	SRVGRP=GROUP1 SRVID=100
+		MIN=5 MAX=10 RQADDR="Q1" REPLYQ=Y
+############WSL###############
+
+*SERVICES
+#TOUPPER
